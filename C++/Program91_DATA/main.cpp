@@ -40,6 +40,9 @@
 #include <iostream>
 using namespace std;
 
+
+
+#define TEKS "aku nak C++"
 class CONTOH {
     int X;
 public:
@@ -55,6 +58,7 @@ public:
     }
 };
 int main(){
+    cout<<TEKS<<endl;
     CONTOH A;
     // cout<<"Masukan sesuatu : ";
     // cin >> A;
