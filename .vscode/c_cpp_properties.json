@@ -5,7 +5,7 @@
       "includePath": [
         "${workspaceFolder}/**"
       ],
-      "compilerPath": "C:/Users/HYPE AMD/Documents/PATH-ENGINE/MinGW/w64devkit/bin/gcc.exe",
+      "compilerPath": "C:/Users/hp/Documents/Resource Code/MinGW/bin/gcc.exe",
       "cStandard": "${default}",
       "cppStandard": "${default}",
       "intelliSenseMode": "windows-gcc-x64",
