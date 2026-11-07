@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-  
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -9,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program12",
-      "program": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program12/build/Debug/outDebug",
+      "cwd": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program13_latihanArray",
+      "program": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program13_latihanArray/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
