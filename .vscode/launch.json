@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program13_latihanArray",
-      "program": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program13_latihanArray/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
