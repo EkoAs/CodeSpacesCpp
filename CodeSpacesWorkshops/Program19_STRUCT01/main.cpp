@@ -8,7 +8,7 @@ struct NODE{
 };
 int main(){
 
-    while(pe)
+    
 
 
 
