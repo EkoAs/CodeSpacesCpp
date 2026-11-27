@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program25_WhileMove",
+      "program": "c:/Users/HYPE AMD/Documents/RESOURCE-CODE/CodeSpacesCpp/CodeSpacesWorkshops/Program25_WhileMove/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
